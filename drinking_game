@@ -10,9 +10,9 @@ Rules
 2. Take a shot:
   Every manager'ism ("Hey guy", "G Whiz", "Okie Doke", "That's a winner", "your show")
   Every time 'The Customer' asks for a status update.
-  Every time a ticket is pulled during the release.
+  Every time a ticket is pulled out during the release.
   Every untested ticket in the release.
 
 3. Take two shots:
-  Engineer drops all the database tables.
-  Build Master is changed 2 minutes before the call.
+  Engineer drops all the database tables (by accident).
+  (ignore this if your the new buildmaster) Build Master is changed 2 minutes before the call.
